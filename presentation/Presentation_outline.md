@@ -25,6 +25,8 @@ Background about What the NFL Draft is and how it works.
 State Problem statement: How do can you best find successful NFL players?
 
 *Slide 3*:
+introduce Data, where it came from how i cleaned, stored, and organized it.
+
 
 
 #### Proposal Report:
